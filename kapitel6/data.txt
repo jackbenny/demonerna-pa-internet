@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Content-Length: 298
+Server: netcat
+
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <title>Min egen HTTP-demon</title>
+</head>
+<body>
+  <h1>En liten och enkel HTTP-demon</h1>
+  <p>Webben är inte mycket mer än detta. En demon<br>
+  som lyssnar på en port och skickar några textsträngar.</p>
+</body>
+</html>
+
