@@ -1,6 +1,6 @@
 HTTP/1.1 200 OK
 Content-Type: text/html; charset=UTF-8
-Content-Length: 298
+Content-Length: 294
 Server: netcat
 
 <!doctype html>
