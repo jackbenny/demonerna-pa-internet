@@ -6,8 +6,10 @@ hittar du här.
 
 **ISBN: 978-91-983300-8-3**
 
-Du hittar boken hos [CyberInfo Sverige](https://www.cyberinfo.se/bocker/) och 
-[Bokus](https://www.bokus.com/bok/9789198330083/demonerna-pa-internet-en-introduktion-till-tcp-ip-protokoll-internet-och-sakerhet/).
+Du hittar boken hos [CyberInfo Sverige](https://www.cyberinfo.se/bocker/),
+[Bokus](https://www.bokus.com/bok/9789198330083/demonerna-pa-internet-en-introduktion-till-tcp-ip-protokoll-internet-och-sakerhet/), 
+[Adlibris](https://www.adlibris.com/se/bok/demonerna-pa-internet-en-introduktion-till-tcpip-protokoll-internet-och-sakerhet-9789198330083) och 
+[CDON](https://cdon.se/bocker/demonerna-pa-internet-en-introduktion-till-tcp-ip-protokoll-internet-och-sakerhet-p126527070).
 
 Är du nyfiken på boken så titta gärna igenom
 [innehållsförteckningen](https://www.cyberinfo.se/dokument/demonerna-pa-internet_innehallsforteckning.html).
